@@ -1,0 +1,10 @@
+.header{
+  position: fixed;
+  min-height:100px;
+  background-color:#aa00bb;
+  width:100%;
+}
+body{
+  margin:0;
+  
+}
